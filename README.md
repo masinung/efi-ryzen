@@ -8,7 +8,7 @@ This configuration works well on AMD Ryzen 5 1400 with the following specs
 
 ## My Specifications
 
-- Motherboard : Asrock A320M-HDV 
+- Motherboard : Asrock A320M-HDV
 - Processor : AMD Ryzen 5 1400
 - dGPU : XFX RX470
 - RAM : 2 x 8 GB DDR4
@@ -44,6 +44,15 @@ If your specifications are similar or exactly same as the specifications above, 
 - Facetime
 - Lock screen black after waking from sleep (but you can input your password and enter) 
 
+## Screenshots
+
+![Screenshot 1](https://github.com/masinung/oc-efi-ryzen5-1400/blob/main/SS/Screen%20Shot%202021-02-06%20at%2012.59.00.png)
+
+![Screenshot 2](https://github.com/masinung/oc-efi-ryzen5-1400/blob/main/SS/Screen%20Shot%202021-02-06%20at%2013.00.43.png)
+
+![Screenshot 3](https://github.com/masinung/oc-efi-ryzen5-1400/blob/main/SS/Screen%20Shot%202021-02-06%20at%2013.00.52.png)
+
+
 ## Thanks To :
 
 - HACKINTOSH LOVER FB Group
@@ -51,4 +60,4 @@ If your specifications are similar or exactly same as the specifications above, 
 
 # Keep Hackintosh and Keep Hairfall
 
-## with love 💌 [Mas Inung](https://github.com/masinung)
+## with 💌 [Mas Inung](https://github.com/masinung)
