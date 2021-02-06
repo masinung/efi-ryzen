@@ -1,0 +1,1 @@
+# oc-efi-ryzen5-1400
